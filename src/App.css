@@ -1,7 +1,12 @@
-.App {
+ .App {
   text-align: center;
 }
-
+.sidebar-box{
+  background-color: aqua;
+  width: 20rem;
+  height: 100rem;
+}
+/*
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +40,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
