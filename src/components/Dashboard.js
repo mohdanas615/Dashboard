@@ -15,7 +15,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { CircularProgressbar } from "react-circular-progressbar";
 
-function Sidebar() {
+function Dashboard() {
   const [isOpen, setIsOpen] = useState(false); // State to handle sidebar visibility
 
   const lessonsData = [
@@ -327,5 +327,5 @@ function Sidebar() {
   );
 }
 
-export default Sidebar;
+export default Dashboard;
 

@@ -1,11 +1,11 @@
 import './App.css';
-import Try from './components/Try'
+import Dashboard from './components/Dashboard';
 
 
 function App() {
   return (
     <>
-<Try/>
+<Dashboard/>
     </>
     
   );
